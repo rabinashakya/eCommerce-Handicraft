@@ -1,5 +1,5 @@
 # eCommerce-Handicraft
-Developed a responsive eCommerce website for a local handicraft store using HTML, CSS,
+Developed a eCommerce website for a local handicraft store using HTML, CSS,
 PHP, and MySQL. The website allows users to browse, search, and purchase wooden handmade
 products online.
 • Designed a user-friendly interface using HTML and CSS.
